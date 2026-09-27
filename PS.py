@@ -1,6 +1,6 @@
 import time
 import utils
-print("world")
+print("hello")
 time.sleep(1)
 print("как дела")
 time.sleep(1)
